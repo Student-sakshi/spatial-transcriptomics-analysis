@@ -3,7 +3,7 @@
 
 setwd("/Users/sam/Documents/UdS/Sem3/SCB/Assignments/Project3/project_3_dataset") #set working directry
 
-Sys.setenv(GITHUB_PAT = "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")
+Sys.setenv(GITHUB_PAT = "token")
 Sys.getenv("GITHUB_PAT")
 
 install.packages("BiocManager")
